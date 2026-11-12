@@ -26,10 +26,11 @@ body{
     align-items: self-start;
     justify-content: center;
     gap: 10px;
+    font-weight: 800;
 
 }
 #divSurpresa{
-    background-color: blueviolet;
+    background-color: whitesmoke;
     height: 1000px;
     width: 1000px;
 }
